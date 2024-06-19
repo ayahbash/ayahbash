@@ -7,9 +7,7 @@
 - 🛡️ advocate for privacy and security 
 - 🌱 here to contribute and learn! 
 
-![Ayah's Github Stats](https://github-readme-stats.vercel.app/api?username=ayahbash&theme=jolly&hide_border=true&include_all_commits=true&count_private=true)
-
-
+![](https://github-readme-stats.vercel.app/api?username=ayahbash&theme=jolly&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 ## languages & tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
