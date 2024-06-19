@@ -3,7 +3,7 @@
 - 👩‍💻 computer science student 
 - 🌐 passionate about open source and free software 
 - 🐧 Linux enthusiast; enjoys customization 
-- 🧠 currently learning C and Python 
+- 🧠 currently learning Python 
 - 🛡️ advocate for privacy and security 
 - 🌱 here to contribute and learn! 
 
