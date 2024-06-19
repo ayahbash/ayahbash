@@ -7,7 +7,7 @@
 - 🛡️ advocate for privacy and security 
 - 🌱 here to contribute and learn! 
 
-![ayah's github stats](https://github-readme-stats.vercel.app/api?username=ayahbash&theme=jolly&hide_border=true&include_all_commits=true&count_private=true)
+![Ayah's Github Stats](https://github-readme-stats.vercel.app/api?username=ayahbash&theme=jolly&hide_border=true&include_all_commits=true&count_private=true)
 
 
 
@@ -32,6 +32,7 @@
   <a href="https://instagram.com/ayah.dat" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
+  
   <a href="https://www.youtube.com/@ayahbash" target="blank">
     <img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
