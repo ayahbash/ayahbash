@@ -1,8 +1,8 @@
-## hello, i'm Ayah! 🌟
+## hello, i'm Aya! 🌟
 
 - 👩‍💻 computer science student 
 - 🌐 passionate about open source and free software 
-- 🐧 Linux enthusiast; enjoys customization 
+- 🐧 Linux enthusiast; enjoys ricing 
 - 🧠 currently learning Python 
 - 🛡️ advocate for privacy and security 
 - 🌱 here to contribute and learn! 
@@ -27,11 +27,11 @@
 
 ### connect with me!
 <p align="left">
-  <a href="https://instagram.com/ayah.dat" target="blank">
+  <a href="https://instagram.com/cyb3raya" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   
-  <a href="https://www.youtube.com/@ayahbash" target="blank">
+  <a href="https://www.youtube.com/@aya.studies" target="blank">
     <img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
 </p>
