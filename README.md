@@ -1,11 +1,11 @@
-## hello, i'm Aya! 🌟
+## hello, i'm Aya! 🎐
 
 - 👩‍💻 computer science student 
-- 🌐 passionate about open source and free software 
+- 🌸 passionate about open source and free software 
 - 🐧 Linux enthusiast; enjoys ricing 
 - 🧠 currently learning Python 
 - 🛡️ advocate for privacy and security 
-- 🌱 here to contribute and learn! 
+- 🌷 here to contribute and learn! 
 
 ![](https://github-readme-stats.vercel.app/api?username=ayahbash&theme=jolly&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
