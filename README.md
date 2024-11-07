@@ -27,7 +27,7 @@
 
 ### connect with me!
 <p align="left">
-  <a href="https://instagram.com/cyb3raya" target="blank">
+  <a href="https://instagram.com/ayacrypt" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   
