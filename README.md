@@ -1,23 +1,23 @@
-<div style="text-align: center;">
-  <img src="meow.gif" alt="Banner" width="130" height="auto" style="display: block; margin: 0 auto;">
-</div>
+<p align="center">
+  <img src="meow.gif" alt="Banner" width="130" height="auto">
+</p>
 
-<div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayahbash&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="display: block; margin: 0 auto;">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayahbash&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</p>
 
-<h2 style="font-weight: bold; text-align: center;">languages & tools</h2>
+<h2 align="center" style="font-weight: bold;">languages & tools</h2>
 
-<div style="text-align: center;">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,py,bash,latex,linux,debian,vscodium,ps,ai,notion&perline=5" />
   </a>
-</div>
+</p>
 
-<h2 style="font-weight: bold; text-align: center;">connect with me :3</h2>
+<h2 align="center" style="font-weight: bold;">connect with me :3</h2>
 
-<div style="text-align: center;">
+<p align="center">
   <a href="http://discordapp.com/users/1160606744037314620" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
-</div>
+</p>
