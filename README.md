@@ -1,9 +1,9 @@
 <div style="text-align: center;">
-  <img src="meow.gif" alt="Banner" width="130" height="auto">
+  <img src="meow.gif" alt="Banner" width="130" height="auto" style="display: block; margin: 0 auto;">
 </div>
 
 <div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayahbash&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayahbash&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="display: block; margin: 0 auto;">
 </div>
 
 <h2 style="font-weight: bold; text-align: center;">languages & tools</h2>
