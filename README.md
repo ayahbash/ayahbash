@@ -1,9 +1,6 @@
 <p style="text-align: center;">
   <img src="meow.gif" alt="Banner" width="130" height="auto">
 </p>
-
-<h1 style="font-weight: bold; text-align: center;">hello there, i'm Aya!</h1>
-
 <p style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=ayahbash&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </p>
