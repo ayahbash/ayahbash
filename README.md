@@ -10,7 +10,7 @@
 
 <h2 style="font-weight: bold; text-align: center;">languages & tools</h2>
 
-<p style="text-align: center;">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,py,bash,latex,linux,debian,vscodium,ps,ai,notion&perline=5" />
   </a>
