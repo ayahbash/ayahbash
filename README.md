@@ -10,11 +10,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,bash,latex,linux,debian,vscodium,ps,ai,notion&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,py,bash,latex,linux,debian,vscodium,github,figma,ps,ai,notion&perline=4" />
   </a>
 </p>
 
-<h2 align="center" style="font-weight: bold;">connect with me :3</h2>
+<h2 align="center" style="font-weight: bold;">connect with me </h2>
 
 <p align="center">
   <a href="http://discordapp.com/users/1160606744037314620" target="_blank">
