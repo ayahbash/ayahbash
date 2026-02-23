@@ -1,45 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="50">
   <style>
     .type { 
-      font: 20px monospace; 
-      fill: #9b59b6;
+      font: bold 20px monospace;
+      fill: #9b59b6;    
+      overflow: hidden;
+      white-space: nowrap;
+      border-right: 0.1em solid #9b59b6;
+      width: 22ch;                 
+      animation: typing 2.2s steps(22, end) forwards, blink 0.7s step-end infinite;
     }
-    .cursor { 
-      animation: blink 1s step-start infinite; 
-      fill: #9b59b6; 
+
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 22ch }
     }
-    @keyframes blink { 
-      50% { opacity: 0; } 
+
+    @keyframes blink {
+      50% { border-color: transparent; }
     }
   </style>
 
-  <text x="0" y="30" class="type">
-    <tspan id="c1" opacity="0">c</tspan>
-    <tspan id="c2" opacity="0">o</tspan>
-    <tspan id="c3" opacity="0">n</tspan>
-    <tspan id="c4" opacity="0">t</tspan>
-    <tspan id="c5" opacity="0">r</tspan>
-    <tspan id="c6" opacity="0">o</tspan>
-    <tspan id="c7" opacity="0">l</tspan>
-    <tspan id="c8" opacity="0"> </tspan>
-    <tspan id="c9" opacity="0">i</tspan>
-    <tspan id="c10" opacity="0">s</tspan>
-    <tspan id="c11" opacity="0"> </tspan>
-    <tspan id="c12" opacity="0">a</tspan>
-    <tspan id="c13" opacity="0">n</tspan>
-    <tspan id="c14" opacity="0"> </tspan>
-    <tspan id="c15" opacity="0">i</tspan>
-    <tspan id="c16" opacity="0">l</tspan>
-    <tspan id="c17" opacity="0">l</tspan>
-    <tspan id="c18" opacity="0">u</tspan>
-    <tspan id="c19" opacity="0">s</tspan>
-    <tspan id="c20" opacity="0">i</tspan>
-    <tspan id="c21" opacity="0">o</tspan>
-    <tspan id="c22" opacity="0">n</tspan>
-
-    <!-- sequential animation for typing -->
-    <animate attributeName="opacity" values="0;1" dur="2.2s" repeatCount="1" fill="freeze"/>
-  </text>
-
-  <text x="460" y="30" class="cursor">|</text>
+  <text x="0" y="30" class="type">control is an illusion</text>
 </svg>
